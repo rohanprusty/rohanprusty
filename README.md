@@ -66,10 +66,6 @@ Full Stack Developer • MERN Stack • AI/ML Enthusiast • ECE @ IIITDM Jabalp
 <img src="https://skillicons.dev/icons?i=instagram" height="50" />
 </a>
 
-<a href="https://codeforces.com/profile/10th_s_rohan" target="blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" height="50" />
-</a>
-
 <a href="https://leetcode.com/u/rohan_99_prusty/" target="blank">
 <img src="https://cdn.simpleicons.org/leetcode" height="50" />
 </a>
