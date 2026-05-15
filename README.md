@@ -1,40 +1,148 @@
-[![MasterHead](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:1e3a8a,100:38bdf8&text=Rohan%20Prusty&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20ML%20Explorer%20%7C%20Building%20the%20Future&descAlignY=58&descSize=18)](https://github.com/rohanprusty)
+[![MasterHead](https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0b1026,50:1d4ed8,100:38bdf8&text=Rohan%20Prusty&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20ML%20Explorer%20•%20Building%20Futuristic%20Experiences&descAlignY=58&descSize=20)](https://github.com/rohanprusty)
+
 <h1 align="center">Hi 👋, I'm Rohan Prusty</h1>
-<h3 align="center">🚀 Full Stack Developer | ECE Undergrad | Future ML Engineer Building futuristic web experiences, AI-powered projects, and scalable full-stack applications while surviving ECE engineering life at IIITDM Jabalpur ⚡ I love creating things that feel modern, interactive, and impossible to ignore — from animated portfolio websites to real-world AI products.</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/ef5a4a2d3e2478a0304b5dafa2b4230ea07d1efaebb21ee2532fd88e8851fd80/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanprusty&label=Profile%20views&color=0e75b6&style=flat" alt="rohanprusty" /> </p>
+<h3 align="center">
+Full Stack Developer • MERN Stack • AI/ML Enthusiast • ECE @ IIITDM Jabalpur
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohanprusty" alt="rohanprusty" /></a> </p>
+<br>
 
-- 🔭 I’m currently working on **Open Source, MERN Stack & AI Projects**
+<table>
+<tr>
+<td width="55%">
 
-- 🌱 I’m currently learning **Data Structures & Algorithms MERN Stack Development Machine Learning Data Science System Design and much more...**
+### 🚀 About Me
 
-- 👯 I’m looking to collaborate on **Advanced Machine Learning & System Design**
+- 🔭 Building **AI-Powered & MERN Stack Projects**
+- 🌱 Learning **DSA, Machine Learning & System Design**
+- ⚡ Creating futuristic web experiences with animations
+- 🎯 Goal: Become a world-class Full Stack + ML Engineer
+- 💡 I love building things that feel modern and impossible to ignore
 
-- 👨‍💻 All of my projects are available at [portfolio_link111](portfolio_link111)
+<br>
 
-- 📫 How to reach me **rohankrprusty@gmail.com**
+<img src="https://komarev.com/ghpvc/?username=rohanprusty&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
-- 📄 Know about my experiences [resume_link](resume_link)
+</td>
 
-- ⚡ Fun fact **I don’t just make websites. I try to make the internet feel cooler. 🌠**
+<td width="45%">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rohan-prusty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan-prusty" height="30" width="40" /></a>
-<a href="https://instagram.com/r_o_h_a_n_prusty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r_o_h_a_n_prusty" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/10th_s_rohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="10th_s_rohan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rohan_99_prusty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohan_99_prusty" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/482005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="482005" height="30" width="40" /></a>
+<img align="center" alt="Coding" width="100%" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rohanprusty&theme=algolia&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
+
+</div>
+
+---
+
+## 🌌 Tech Universe
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,typescript,java,go,react,nextjs,nodejs,express,mongodb,mysql,postgresql,tailwind,docker,kubernetes,aws,firebase,git,github,linux,figma,tensorflow,pytorch&perline=9" />
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohanprusty&show_icons=true&locale=en&layout=compact" alt="rohanprusty" /></p>
+## 🌐 Connect With Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohanprusty&show_icons=true&locale=en" alt="rohanprusty" /></p>
+<p align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohanprusty&" alt="rohanprusty" /></p>
+<a href="https://linkedin.com/in/rohan-prusty" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+</a>
+
+<a href="https://instagram.com/r_o_h_a_n_prusty" target="blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="50" />
+</a>
+
+<a href="https://codeforces.com/profile/10th_s_rohan" target="blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" height="50" />
+</a>
+
+<a href="https://leetcode.com/u/rohan_99_prusty/" target="blank">
+<img src="https://cdn.simpleicons.org/leetcode" height="50" />
+</a>
+
+<a href="mailto:rohankrprusty@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50" />
+</a>
+
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=rohanprusty&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
+
+<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=rohanprusty&theme=tokyonight&hide_border=true&border_radius=15" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohanprusty&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+
+</div>
+
+---
+
+## 🚀 Current Focus
+
+```yaml
+Currently Working On:
+  - MERN Stack Projects
+  - Machine Learning
+  - Open Source Contributions
+  - Portfolio & UI/UX Engineering
+
+Learning:
+  - Advanced DSA
+  - System Design
+  - Deep Learning
+  - Scalable Backend Systems
+
+Goals 2026:
+  - Crack Top Tech Internship
+  - Build AI SaaS Product
+  - Become Open Source Contributor
+```
+
+---
+
+## ⚡ Fun Fact
+
+```javascript
+while(alive) {
+   eat();
+   code();
+   build();
+   learn();
+   sleep();
+   repeat();
+}
+```
+
+---
+
+<div align="center">
+
+### 🌠 “I don't just build websites.  
+### I build experiences people remember.”
+
+</div>
