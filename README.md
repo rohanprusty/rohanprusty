@@ -62,17 +62,24 @@ Full Stack Developer • MERN Stack • AI/ML Enthusiast • ECE @ IIITDM Jabalp
 <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
 
+
+
 <a href="https://instagram.com/r_o_h_a_n_prusty" target="blank">
 <img src="https://skillicons.dev/icons?i=instagram" height="50" />
 </a>
+
+
 
 <a href="https://leetcode.com/u/rohan_99_prusty/" target="blank">
 <img src="https://cdn.simpleicons.org/leetcode" height="50" />
 </a>
 
+
+
 <a href="mailto:rohankrprusty@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="50" />
 </a>
+
 
 </p>
 
