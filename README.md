@@ -1,151 +1,170 @@
-[![MasterHead](https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0b1026,50:1d4ed8,100:38bdf8&text=Rohan%20Prusty&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20ML%20Explorer%20•%20Building%20Futuristic%20Experiences&descAlignY=58&descSize=20)](https://github.com/rohanprusty)
+<!-- Animated Header Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,15,22&height=180&section=header&text=Rohan%20Kumar%20Prusty&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Competitive%20Programmer&descAlignY=55&descSize=16" />
+</div>
 
-<h1 align="center">Hi 👋, I'm Rohan Prusty</h1>
+<!-- Typing SVG -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00ADD8&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=50&lines=Building+scalable+AI-powered+SaaS+Platforms+%F0%9F%9A%80;Full+Stack+Developer+%7C+MERN+Stack;Competitive+Programmer+%7C+300%2B+Problems+Solved" alt="Typing SVG" />
+  </a>
+</div>
 
-<h3 align="center">
-Full Stack Developer • MERN Stack • AI/ML Enthusiast • ECE @ IIITDM Jabalpur
-</h3>
-
-<br>
-
-<table>
-<tr>
-<td width="55%">
-
-### 🚀 About Me
-
-- 🔭 Building **AI-Powered & MERN Stack Projects**
-- 🌱 Learning **DSA, Machine Learning & System Design**
-- ⚡ Creating futuristic web experiences with animations
-- 🎯 Goal: Become a world-class Full Stack + ML Engineer
-- 💡 I love building things that feel modern and impossible to ignore
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=rohanprusty&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-
-</td>
-
-<td width="45%">
-
-<img align="center" alt="Coding" width="100%" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
-
-</td>
-</tr>
-</table>
+<br/>
 
 ---
 
+## 🙋‍♂️ About Me
+
+```go
+package main
+
+type RohanPrusty struct {
+	Username     string
+	Role         string
+	Languages    []string
+	CurrentFocus string
+	FunFact      string
+}
+
+func NewProfile() RohanPrusty {
+	return RohanPrusty{
+		Username:     "rohanprusty",
+		Role:         "Full Stack Developer",
+		Languages:    []string{"JavaScript", "C++", "C", "Python", "Java"},
+		CurrentFocus: "Building AI-powered platforms and mastering System Architecture",
+		FunFact:      "I'm a Gold Medalist in Basketball and have solved 300+ algorithmic problems 🏀",
+	}
+}
+```
+
+- 🚀 Passionate **Full Stack Developer** specializing in the **MERN stack** and scalable system architecture
+- ⚡ Experienced in building real-time AI platforms using **React, Node.js, WebSockets, and WebRTC**
+- 🏆 Strong background in **Competitive Programming**, with 300+ algorithmic problems solved on LeetCode & Codeforces
+- 🏗️ Focused on clean architecture, Object-Oriented Programming (OOP), and performant micro-frontends
+- 🏀 When I'm not coding, you can find me on the basketball court (Inter-IIIT Sports Gold Medalist!)
+- 💬 Ask me about the MERN stack, full-stack architecture, or data structures & algorithms!
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 🌐 Frontend & UI
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
+
+### ⚙️ Backend & Core Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</p>
+
+### 🗄️ Databases & Cloud
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+</p>
+
+### 🔧 Tools & Architecture
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rohanprusty&theme=algolia&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
+  <!-- Stats Card -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rohanprusty&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="GitHub Stats" />
+
+  <!-- Streak Stats -->
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=rohanprusty&theme=tokyonight&hide_border=true&v=1" alt="Streak Stats" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <!-- Top Languages -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanprusty&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=1" alt="Top Languages" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <!-- Activity Graph -->
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rohanprusty&theme=tokyonight&hide_border=true&area=true&v=1" alt="Activity Graph" />
 
 </div>
 
 ---
 
-## 🌌 Tech Universe
+## 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
+  <!-- Contribution graph custom colored to match theme -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanprusty&bg_color=1A1B27&color=70A5FD&line=38BDAE&point=FFFFFF&area=true&hide_border=true" />
+</div>
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,typescript,java,go,react,nextjs,nodejs,express,mongodb,mysql,postgresql,tailwind,docker,kubernetes,aws,firebase,git,github,linux,figma,tensorflow,pytorch&perline=9" />
+---
 
-</p>
+## 🚀 Full Stack & Systems Focus
+
+```
+📐 Architecture     →   Scalable SaaS Platforms · Micro-frontends · MVC
+🌐 APIs             →   REST APIs · WebSockets · WebRTC
+📦 Frameworks       →   React.js · Node.js · Express.js · TailwindCSS
+🗄️ Data Layer       →   MongoDB · SQL
+🧠 AI Integration   →   OpenRouter API · face-api.js · AI Prompting
+🔒 Security         →   JWT Authentication · Razorpay Webhooks
+☁️ DevOps & CI/CD   →   Docker · GitHub Actions · Vite bundling
+🏅 Competitive      →   DSA · Graph Algorithms · Dynamic Programming
+```
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
-
-<a href="https://linkedin.com/in/rohan-prusty" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
-</a>
-
-
-
-<a href="https://instagram.com/r_o_h_a_n_prusty" target="blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="50" />
-</a>
-
-
-
-<a href="https://leetcode.com/u/rohan_99_prusty/" target="blank">
-<img src="https://cdn.simpleicons.org/leetcode" height="50" />
-</a>
-
-
-
-<a href="mailto:rohankrprusty@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50" />
-</a>
-
-
-</p>
-
----
-
-## 📊 GitHub Analytics
-
 <div align="center">
-
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=rohanprusty&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
-
-<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=rohanprusty&theme=tokyonight&hide_border=true&border_radius=15" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohanprusty&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
-
+  <a href="https://github.com/rohanprusty">
+    <img src="https://img.shields.io/badge/GitHub-rohanprusty-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:rohanprusty28@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/rohanprusty">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </div>
 
 ---
 
-## 🚀 Current Focus
-
-```yaml
-Currently Working On:
-  - MERN Stack Projects
-  - Machine Learning
-  - Open Source Contributions
-  - Portfolio & UI/UX Engineering
-
-Learning:
-  - Advanced DSA
-  - System Design
-  - Deep Learning
-  - Scalable Backend Systems
-
-Goals 2026:
-  - Crack Top Tech Internship
-  - Build AI SaaS Product
-  - Become Open Source Contributor
-```
-
----
-
-## ⚡ Fun Fact
-
-```javascript
-while(alive) {
-   eat();
-   code();
-   build();
-   learn();
-   sleep();
-   repeat();
-}
-```
-
----
-
+<!-- Profile Views Counter -->
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rohanprusty&label=Profile%20Views&color=70A5FD&style=for-the-badge" alt="rohanprusty profile views" />
+</div>
 
-### 🌠 “I don't just build websites.  
-### I build experiences people remember.”
-
+<!-- Animated Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,15,22&height=100&section=footer"/>
 </div>
